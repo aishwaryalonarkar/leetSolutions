@@ -1,9 +1,6 @@
+# Question Sourrce : https://leetcode.com/problems/longest-valid-parentheses/
 
 def getLongest(s) :
-    result = ""
-    counter = 0
-    stack = []
-
     r=0
     l=0
     i=0
