@@ -1,4 +1,4 @@
-# Longest Common Subsequence
+# Longest Common Subsequence uding dp
 
 def getlcs(str1,str2) :
     s1 = len(str1)
